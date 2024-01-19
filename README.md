@@ -8,7 +8,7 @@
   - Photography 📷
   - Woodworking 🔨
   - Embroidery 🧵
-  - Typography **ℬ**
+  - Typography **⅋**
   - Anything I come across...
 
 **<hr>**

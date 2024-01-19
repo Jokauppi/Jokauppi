@@ -12,5 +12,5 @@
   - Anything I come across...
 
 **<hr>**
-**<h3 style="text-align: center; color:#4E6D65;">DEVELOPING [**EQUΛTIONEER**](https://github.com/Jokauppi/Equationeer) WYSIWYG LaTeX</h3>**
-_<p style="text-align: center; color:#4E6D65;">Easy LaTeX editor for lecture notes, homework, etc...</p>_
+**<h3 align="center">DEVELOPING [**EQUΛTIONEER**](https://github.com/Jokauppi/Equationeer) WYSIWYG LaTeX</h3>**
+_<p align="center">Easy LaTeX editor for lecture notes, homework, etc...</p>_

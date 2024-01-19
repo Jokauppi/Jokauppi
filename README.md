@@ -1,16 +1,16 @@
-### Hi there 👋
+![Joona Kauppila](./banner.png)
 
-<!--
-**Jokauppi/Jokauppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- BSc Computer Science student at the University of Helsinki :mortar_board:
+- Most proficient in frontend & serverless web dev 👨‍💻
+- Striving for intuitive and efficient UIs ⚙️
+- Generalist maker/designer
+  - Graphic design ✒️
+  - Photography 📷
+  - Woodworking 🔨
+  - Embroidery 🧵
+  - Typography **ζ**
+  - Anything I come across...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**<hr>**
+**<h3 style="text-align: center; color:#4E6D65;">DEVELOPING [**EQUΛTIONEER**](https://github.com/Jokauppi/Equationeer) WYSIWYG LaTeX</h3>**
+_<p style="text-align: center; color:#4E6D65;">Easy LaTeX editor for lecture notes, homework, etc...</p>_

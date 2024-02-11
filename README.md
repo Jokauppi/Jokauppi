@@ -6,9 +6,9 @@
 - Generalist maker/designer
   - Graphic design ✒️
   - Photography 📷
+  - Typography **⅋**
   - Woodworking 🔨
   - Embroidery 🧵
-  - Typography **⅋**
   - Anything I come across...
 
 **<hr>**

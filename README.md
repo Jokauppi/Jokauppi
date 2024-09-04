@@ -13,4 +13,3 @@
 
 **<hr>**
 **<h3 align="center">DEVELOPING [**EQUΛTIONEER**](https://github.com/Jokauppi/Equationeer) WYSIWYG LaTeX</h3>**
-_<p align="center">Easy LaTeX editor for lecture notes, homework, etc...</p>_

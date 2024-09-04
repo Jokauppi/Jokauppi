@@ -1,5 +1,3 @@
-![Joona Kauppila](./banner.png)
-
 - BSc Computer Science student at the University of Helsinki :mortar_board:
 - Most proficient in frontend & serverless web dev 👨‍💻
 - Striving for intuitive and efficient UIs ⚙️

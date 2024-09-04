@@ -10,4 +10,4 @@
   - Anything I come across...
 
 **<hr>**
-**<h3 align="center">DEVELOPING [**EQUΛTIONEER**](https://github.com/Jokauppi/Equationeer) WYSIWYG LaTeX</h3>**
+**<h3 align="center">DEVELOPING [**EQUΛTIONEER**](https://github.com/Jokauppi/Equationeer) WYSIWYM LaTeX</h3>**
